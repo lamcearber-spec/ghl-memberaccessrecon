@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="MemberAccessRecon">
+  <rect width="64" height="64" rx="14" fill="#221b16"/>
+  <path d="M16 18h32v8H16z" fill="#f5f7f8"/>
+  <path d="M16 30h32v16H16z" fill="#fff4d7"/>
+  <path d="M23 22h18M23 36h8M23 42h18" stroke="#7a4b00" stroke-width="3" stroke-linecap="round"/>
+  <path d="M42 33c4 0 7 3 7 7s-3 7-7 7-7-3-7-7 3-7 7-7z" fill="#b42318"/>
+  <path d="m39 40 2 2 5-5" fill="none" stroke="#fff4d7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
