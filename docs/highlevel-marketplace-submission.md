@@ -11,9 +11,9 @@
 ## App Identity
 
 - App name: `MemberAccessRecon: Ghost Access Audit`
-- HighLevel app ID: `pending`
-- Submitted version/status: `pending`
-- Publish trace: `pending`
+- HighLevel app ID: `6a24693a01623812f16f0f86`
+- Submitted version/status: `1.0.0` / `review`
+- Publish trace: `5699a2eb-cfa0-4fe0-bcf0-13f72534e4eb`
 - Short name: `MemberAccessRecon`
 - Category: Memberships
 - Target user: Agency

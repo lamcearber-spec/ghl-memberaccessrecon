@@ -16,3 +16,5 @@ coverage
 .prod-server.err.log
 .prod-server.pid
 .prod-server.port
+
+.vercel
